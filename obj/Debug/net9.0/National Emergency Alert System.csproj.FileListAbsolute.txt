@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\National Emergency Alert System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\National Emergency Alert System.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\National Emergency Alert System.AssemblyInfo.cs
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\National Emergency Alert System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Repo\National Emergency Alert System\bin\Debug\net9.0\National Emergency Alert System.exe
+C:\Users\PC\Documents\Repo\National Emergency Alert System\bin\Debug\net9.0\National Emergency Alert System.deps.json
+C:\Users\PC\Documents\Repo\National Emergency Alert System\bin\Debug\net9.0\National Emergency Alert System.runtimeconfig.json
+C:\Users\PC\Documents\Repo\National Emergency Alert System\bin\Debug\net9.0\National Emergency Alert System.dll
+C:\Users\PC\Documents\Repo\National Emergency Alert System\bin\Debug\net9.0\National Emergency Alert System.pdb
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\National Emergency Alert System.dll
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\refint\National Emergency Alert System.dll
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\National Emergency Alert System.pdb
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\National Emergency Alert System.genruntimeconfig.cache
+C:\Users\PC\Documents\Repo\National Emergency Alert System\obj\Debug\net9.0\ref\National Emergency Alert System.dll
