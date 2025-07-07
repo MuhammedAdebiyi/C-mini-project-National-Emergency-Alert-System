@@ -65,9 +65,53 @@ enum Difficulty
 {
     static void Main(string[] args)
     {
-        Console.WriteLine((int)Difficulty.Easy);
-        Console.WriteLine((int)Difficulty.Medium); 
-        Console.WriteLine((int)Difficulty.Hard);  
+        Console.WriteLine("Game Difficulty Levels:");
+
+        foreach (Difficulty level in Enum.GetValues(typeof(Difficulty)))
+        {
+            string message = "";
+
+            switch (level)
+            {
+
+                case Difficulty.Easy:
+                    message = "For Beginners. No Stress";
+                    break;
+                case Difficulty.Medium:
+                    message = "Enemies get stronger";
+                    break;
+                case Difficulty.Hard:
+                    message = "Only legends survive";
+                    break;
+            }
+
+            Console.WriteLine($" -{level} ({(int)level}): {message}");
+        }
+
+        Console.WriteLine("\n Available Characters: ");
+        string[] characters = { "Warriors", "Mage", "Archer" };
+
+        foreach (var character in characters)
+        {
+            string performance = "";
+
+
+            switch (character)
+            {
+
+                case "Warrior":
+                    performance = "Survives on all levels";
+                    break;
+                case "Mage":
+                    performance = "Struggles on Hard";
+                    break;
+                case "Archer":
+                    performance = "Great on Easy and Medium";
+                    break;
+            }
+
+            Console.WriteLine($" -{character} -> {performance}");
+        }
 
     }
 }
